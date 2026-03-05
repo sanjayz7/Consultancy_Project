@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+paper_inventory_consultancy/backend/node_modules/
+paper_inventory_consultancy/frontend/node_modules/
+
+# Build output
+paper_inventory_consultancy/frontend/build/
+paper_inventory_consultancy/backend/dist/
+
+# Environment variables
+.env
+paper_inventory_consultancy/backend/.env
+paper_inventory_consultancy/frontend/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
